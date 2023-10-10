@@ -3,7 +3,8 @@
 - ✍️ **Oi**, como deve ter reparado eu sou a @AkikoOO1, prazer em conhece-lo!
 - 📚 Estou aprendendo à arte da programação;
 - E consegui aprender um pouco à programação do JavaScripp, HTML, CSS e Scratch pelo [Alura](https://www.alura.com.br).
-- Vou utilizar esse espaço para compartilhamentos dos meus projetos desenvolvidos, assim como organizar eles.
+- Vou utilizar esse espaço para compartilhar meus projetos desenvolvidos, assim como organizar eles.🍱
+
 
 **Se quiserem entrar em contato comigo**
 
